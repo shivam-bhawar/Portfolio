@@ -1,0 +1,15 @@
+#scene
+{
+	pointer-events: auto;
+}
+
+#concealer
+{
+	font-size: 30px;
+	width: 20%;
+	height: 10%;
+	position: absolute;
+	bottom: 1%;
+	right: 1%;
+	background-color: lightgray;
+}
